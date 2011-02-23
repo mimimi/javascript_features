@@ -7,12 +7,12 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (3.0.1)
-    jslint_on_rails (1.0.3)
+    activesupport (3.0.4)
+    jslint_on_rails (1.0.6)
     jsmin (1.0.1)
-    json (1.4.6)
+    json (1.5.1)
     rack (1.2.1)
-    rack-test (0.5.6)
+    rack-test (0.5.7)
       rack (>= 1.0)
     redgreen (1.2.2)
     shoulda (2.11.3)
