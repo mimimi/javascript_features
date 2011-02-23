@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
   s.summary = 'Structured, unobtrusive JavaScript for Rails applications'
 
   s.add_dependency('jsmin')
-  s.add_dependency('harmony')
 
   s.add_development_dependency('shoulda')
   s.add_development_dependency('redgreen')
